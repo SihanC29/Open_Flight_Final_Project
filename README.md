@@ -1,4 +1,4 @@
-# CS 225 Final Project - OpenFlights
+# Data Structure Final Project - OpenFlights
 
 ## Authors
 
